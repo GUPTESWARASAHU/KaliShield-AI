@@ -1,0 +1,6 @@
+{
+  "name": "KaliShield AI",
+  "description": "AI Risk Manager for digital threats and suspicious financial activity.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
